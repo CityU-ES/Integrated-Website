@@ -28,7 +28,7 @@ For Intakes in 2020-2021 and Thereafter
 | Course Code             | Course Title                | Level | Credit Units |
 | ----------------------- | --------------------------- | ----- | ------------ |
 | IS5413                  | Database Management Systems | P5    | 3            |
-| (IS5941)[www.baidu.com] |                             | P5    | 3            |
+| [IS5941](www.baidu.com) |                             | P5    | 3            |
 |                         |                             | P5    | 3            |
 |                         |                             | P5    | 3            |
 |                         |                             | P5    | 3            |
